@@ -1,6 +1,6 @@
 #coding=utf-8
 import sys
-sys.path.append("C:\\Users\\miss\\.jenkins\\workspace\\appium\\run")
+sys.path.append("C:\\Users\\miss\\.jenkins\\workspace\\appium")
 
 import unittest
 from jioben.test1 import Loong
